@@ -3,9 +3,7 @@
 
 #define BUF_LEN 1024
 #include <stdio.h>
-#include <stdlib.h>
 #include <string.h>
-#include <ctype.h>
 
 int main( int argc, char **argv )
 {
