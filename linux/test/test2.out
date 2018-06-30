@@ -1,0 +1,234 @@
+2018年  6月 30日 土曜日 18:49:30 JST
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ10158282.0.FDC
+| Date/Time         :- Sat July 18 2015 21:00:31 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqzmgr0                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ10485824.0.FDC
+| Date/Time         :- Sat July 18 2015 21:00:31 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqrrmfa                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ10551550.0.FDC
+| Date/Time         :- Sat July 18 2015 21:00:31 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqzmur0                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ12189938.0.FDC
+| Date/Time         :- Tue July 14 2015 10:52:15 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqfcxba                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ13041716.0.FDC
+| Date/Time         :- Tue July 14 2015 10:52:15 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqpcsea                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ13172968.0.FDC
+| Date/Time         :- Tue July 14 2015 10:52:15 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqrrmfa                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ3538966.0.FDC
+| Date/Time         :- Tue July 14 2015 17:31:20 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqzfuma                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ3866710.0.FDC
+| Date/Time         :- Tue July 14 2015 10:52:15 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- runmqchi                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ4849770.0.FDC
+| Date/Time         :- Tue July 14 2015 10:52:15 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqzfuma                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ5701764.0.FDC
+| Date/Time         :- Tue July 14 2015 10:52:15 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqzlaa0                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ5767228.0.FDC
+| Date/Time         :- Tue July 14 2015 17:31:20 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqzmgr0                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ6160560.0.FDC
+| Date/Time         :- Sat July 18 2015 21:00:31 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- runmqchi                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ6160598.0.FDC
+| Date/Time         :- Tue July 14 2015 17:31:20 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqzxma0                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ6488116.0.FDC
+| Date/Time         :- Sat July 18 2015 21:00:31 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqzfuma                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ6488130.0.FDC
+| Date/Time         :- Tue July 14 2015 17:31:20 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqzmur0                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ6684676.0.FDC
+| Date/Time         :- Tue July 14 2015 17:31:20 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqzlaa0                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ6750208.0.FDC
+| Date/Time         :- Tue July 14 2015 17:31:20 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqfqpub                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ6815966.0.FDC
+| Date/Time         :- Tue July 14 2015 17:31:20 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqfcxba                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ6881308.0.FDC
+| Date/Time         :- Tue July 14 2015 17:31:20 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- runmqchi                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ7012484.0.FDC
+| Date/Time         :- Sat July 18 2015 21:00:31 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqzxma0                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ7077942.0.FDC
+| Date/Time         :- Tue July 14 2015 17:31:20 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqpcsea                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ7143666.0.FDC
+| Date/Time         :- Tue July 14 2015 17:31:20 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqzmuc0                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ7340260.0.FDC
+| Date/Time         :- Tue July 14 2015 17:31:20 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqzmuf0                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ7471198.0.FDC
+| Date/Time         :- Tue July 14 2015 10:52:15 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqzmuc0                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ7667790.0.FDC
+| Date/Time         :- Sat July 18 2015 21:00:31 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqzmuf0                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ7667862.0.FDC
+| Date/Time         :- Tue July 14 2015 17:31:20 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqrrmfa                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ7798932.0.FDC
+| Date/Time         :- Sat July 18 2015 21:00:31 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqzlaa0                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ8454206.0.FDC
+| Date/Time         :- Sat July 18 2015 21:00:31 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqzmuc0                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ8585294.0.FDC
+| Date/Time         :- Sat July 18 2015 21:00:31 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqfcxba                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ8781868.0.FDC
+| Date/Time         :- Tue July 14 2015 10:52:15 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqzxma0                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ8847462.0.FDC
+| Date/Time         :- Tue July 14 2015 10:52:15 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqzmgr0                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ9044064.0.FDC
+| Date/Time         :- Sun July 12 2015 11:53:21 JST                          | 
+| Probe Id          :- XC560040                                               | 
+| Component         :- xcsCreateDirectory                                     | 
+| Program Name      :- crtmqm                                                 | 
+| Major Errorcode   :- xecF_E_UNEXPECTED_SYSTEM_RC                            | 
+| Date/Time         :- Sun July 12 2015 11:53:21 JST                          | 
+| Probe Id          :- XC721050                                               | 
+| Component         :- xcsCreateFile                                          | 
+| Program Name      :- crtmqm                                                 | 
+| Major Errorcode   :- xecF_E_UNEXPECTED_SYSTEM_RC                            | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ9175164.0.FDC
+| Date/Time         :- Sat July 18 2015 21:00:31 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqfqpub                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ9371738.0.FDC
+| Date/Time         :- Tue July 14 2015 10:52:15 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqfqpub                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ9437208.0.FDC
+| Date/Time         :- Sun July 12 2015 11:46:44 JST                          | 
+| Probe Id          :- XC560030                                               | 
+| Component         :- xcsCreateDirectory                                     | 
+| Program Name      :- crtmqm                                                 | 
+| Major Errorcode   :- xecF_E_UNEXPECTED_SYSTEM_RC                            | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ9437270.0.FDC
+| Date/Time         :- Tue July 14 2015 10:52:15 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqzmur0                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ9568468.0.FDC
+| Date/Time         :- Tue July 14 2015 10:52:15 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqzmuf0                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/mnt/nas/sampledata/MQ_STSC/MQ_STSC/errors/mqmerror/AMQ9633868.0.FDC
+| Date/Time         :- Sat July 18 2015 21:00:31 JST                          | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqpcsea                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
