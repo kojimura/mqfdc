@@ -1,0 +1,7 @@
+----- Unit Test: mqfdc.c : one file : c ----- 
+2018/06/30 21:17:52.49 ..\mqfdc.c "C:\home\data\AMQ5264.0.FDC" 
+| Date/Time         :- ìy 6åé 23 2018 13:13:13 ìåãû (ïWèÄéû)                  |
+| Probe Id          :- XY200003                                               |
+| Component         :- xgmWriteNTEventLog                                     |
+| Process Name      :- amqzmgr0.exe                                           |
+| Major Errorcode   :- xecF_E_UNEXPECTED_SYSTEM_RC                            |

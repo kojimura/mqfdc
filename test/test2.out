@@ -1,0 +1,62 @@
+----- Combined Test: mqfdc_win.bat : all files : calling c ----- 
+2018/06/30 21:17:52.50 ..\mqfdc_win.bat C:\home\data\ 
+| Date/Time         :- 木 6月 07 2018 22:16:25 東京 (標準時)                  |
+| Probe Id          :- PL104003                                               |
+| Component         :- smqomPCFString                                         |
+| Process Name      :- amqzlaa0.exe                                           |
+| Major Errorcode   :- MQRC_SECURITY_ERROR                                    |
+| Date/Time         :- 木 6月 07 2018 22:17:57 東京 (標準時)                  |
+| Probe Id          :- PL104003                                               |
+| Component         :- smqomPCFString                                         |
+| Process Name      :- amqzlaa0.exe                                           |
+| Major Errorcode   :- MQRC_SECURITY_ERROR                                    |
+| Date/Time         :- 木 6月 07 2018 22:22:21 東京 (標準時)                  |
+| Probe Id          :- PL104003                                               |
+| Component         :- smqomPCFString                                         |
+| Process Name      :- amqzlaa0.exe                                           |
+| Major Errorcode   :- MQRC_SECURITY_ERROR                                    |
+| Date/Time         :- 月 6月 11 2018 22:04:18 東京 (標準時)                  |
+| Probe Id          :- PL104003                                               |
+| Component         :- smqomPCFString                                         |
+| Process Name      :- amqzlaa0.exe                                           |
+| Major Errorcode   :- MQRC_SECURITY_ERROR                                    |
+| Date/Time         :- 月 6月 11 2018 22:09:10 東京 (標準時)                  |
+| Probe Id          :- PL104003                                               |
+| Component         :- smqomPCFString                                         |
+| Process Name      :- amqzlaa0.exe                                           |
+| Major Errorcode   :- MQRC_SECURITY_ERROR                                    |
+| Date/Time         :- 土 6月 23 2018 13:13:13 東京 (標準時)                  |
+| Probe Id          :- XY200003                                               |
+| Component         :- xgmWriteNTEventLog                                     |
+| Process Name      :- amqzmgr0.exe                                           |
+| Major Errorcode   :- xecF_E_UNEXPECTED_SYSTEM_RC                            |
+| Date/Time         :- 火 6月 05 2018 21:49:38 東京 (標準時)                  |
+| Probe Id          :- XC037003                                               |
+| Component         :- xcsExecProgram                                         |
+| Process Name      :- amqpsrvn.exe                                           |
+| Major Errorcode   :- xecF_E_UNEXPECTED_SYSTEM_RC                            |
+| Date/Time         :- 火 6月 05 2018 21:49:38 東京 (標準時)                  |
+| Probe Id          :- XC037003                                               |
+| Component         :- xcsExecProgram                                         |
+| Process Name      :- amqpsrvn.exe                                           |
+| Major Errorcode   :- xecF_E_UNEXPECTED_SYSTEM_RC                            |
+| Date/Time         :- 火 6月 05 2018 21:49:38 東京 (標準時)                  |
+| Probe Id          :- XC037003                                               |
+| Component         :- xcsExecProgram                                         |
+| Process Name      :- amqpsrvn.exe                                           |
+| Major Errorcode   :- xecF_E_UNEXPECTED_SYSTEM_RC                            |
+| Date/Time         :- 火 6月 05 2018 21:49:38 東京 (標準時)                  |
+| Probe Id          :- XC037003                                               |
+| Component         :- xcsExecProgram                                         |
+| Process Name      :- amqpsrvn.exe                                           |
+| Major Errorcode   :- xecF_E_UNEXPECTED_SYSTEM_RC                            |
+| Date/Time         :- 火 6月 05 2018 21:49:39 東京 (標準時)                  |
+| Probe Id          :- XC037003                                               |
+| Component         :- xcsExecProgram                                         |
+| Process Name      :- amqpsrvn.exe                                           |
+| Major Errorcode   :- xecF_E_UNEXPECTED_SYSTEM_RC                            |
+| Date/Time         :- 土 6月 23 2018 13:13:13 東京 (標準時)                  |
+| Probe Id          :- XY200003                                               |
+| Component         :- xgmWriteNTEventLog                                     |
+| Process Name      :- amqzmgr0.exe                                           |
+| Major Errorcode   :- xecF_E_UNEXPECTED_SYSTEM_RC                            |

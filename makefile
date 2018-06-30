@@ -1,10 +1,16 @@
 # makefile for Windows
 
 CC = cl.exe
-LINK = link.exe
-DEST = bin
+DEST = c:/home/bin/ 
+SRC = mqfdc.c
 PROGRAM = mqfdc.exe
 
-mqercmp.exe : mqfdc.c
-	$(CC) -MD mqfdc.c -Fe$(PROGRAM)
+$(PROGRAM) : $(SRC)
+	$(CC) -MD $(SRC) -Fe$(PROGRAM)
+
+install:
+	cp $(PROGRAM) $(DEST) 
+
+clean:
+	rm -f *.exe *.obj *~ .*~ *.swp
 
