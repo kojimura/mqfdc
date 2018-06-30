@@ -1,0 +1,20 @@
+----- Combined Test ../mqfdc.sh : all file : using awk -----
+2018年 6月 30日 土曜日 22:10:10 JST
+/cygdrive/c/home/data/unix/AMQ3196.0.FDC
+| Date/Time         :- 月 10月 09 2017 22:46:06 JST                         | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqzxma0                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/cygdrive/c/home/data/unix/AMQ3202.0.FDC
+| Date/Time         :- 月 10月 09 2017 22:46:06 JST                         | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqzfuma                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 
+/cygdrive/c/home/data/unix/AMQ3207.0.FDC
+| Date/Time         :- 月 10月 09 2017 22:46:06 JST                         | 
+| Probe Id          :- XC338001                                               | 
+| Component         :- xehAsySignalHandler                                    | 
+| Program Name      :- amqzmuc0                                               | 
+| Major Errorcode   :- xecE_W_UNEXPECTED_ASYNC_SIGNAL                         | 

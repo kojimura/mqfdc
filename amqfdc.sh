@@ -6,7 +6,6 @@
 fdcPath=$1
 
 for filename in ${fdcPath}*.FDC; do
- echo "${filename}"
-# /home/koji/bin/mqfdc < $filename
- mqfdc < $filename
+  echo "${filename}"
+  mqfdc < $filename
 done
