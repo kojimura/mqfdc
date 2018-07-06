@@ -19,6 +19,7 @@ clean:
 
 install: $(PROGRAM)
 	install -s $(PROGRAM) $(DEST)
+	cp *.sh $(DEST)/
 
 
 
