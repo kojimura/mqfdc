@@ -1,7 +1,7 @@
 @echo off
 
 rem test script
-rem run from Windows command prompt
+rem run from Windows command prompt.
 rem test.bat
 
 set IN1="C:\home\data\AMQ5264.0.FDC"
